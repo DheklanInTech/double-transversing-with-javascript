@@ -1,0 +1,11 @@
+{
+    "items":{
+        "sys": { "id": "1"},
+        "fields":{
+            "title":"avilla swim pant",
+            "price":200.99,
+            "image":{"file":{"url":"./images/product-1.jpeg"}}
+        }
+    }
+
+}
